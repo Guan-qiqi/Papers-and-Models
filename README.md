@@ -1,4 +1,4 @@
-![image](https://github.com/Guan-qiqi/Papers-and-Models/assets/63685364/ffb5d172-884a-44c2-a132-801517946d87)# Papers-and-Models
+# Paper and Model
 论文和对应的模型总结
 
 
