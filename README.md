@@ -11,9 +11,9 @@
 
 
 
-# Derain
+# Deraining
 
 | Paper      | Keywords | Model |
 | ----------- | ----------- | ----------- |
-| Learning A Sparse Transformer Network for Effective Image Deraining——CVPR 2023<br>[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_Learning_a_Sparse_Transformer_Network_for_Effective_Image_Deraining_CVPR_2023_paper.pdf)<br>[code](https://github.com/cschenxiang/drsformer) |   | ![image](https://github.com/Guan-qiqi/Papers-and-Models/assets/63685364/af87a96d-066a-40d7-80e7-38b546275167) |
+| Learning A Sparse Transformer Network for Effective Image Deraining——CVPR 2023<br>[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_Learning_a_Sparse_Transformer_Network_for_Effective_Image_Deraining_CVPR_2023_paper.pdf)<br>[code](https://github.com/cschenxiang/drsformer) | Deraining  | ![image](https://github.com/Guan-qiqi/Papers-and-Models/assets/63685364/af87a96d-066a-40d7-80e7-38b546275167) |
 |    |    |    |
