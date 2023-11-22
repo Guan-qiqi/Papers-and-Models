@@ -20,6 +20,13 @@
 |    |    |    |
 
 
+# Prompt
+| Paper      | Keywords | Model |
+| ----------- | ----------- | ----------- |
+| https://openreview.net/pdf?id=nIaNgaQvsV   | 退化感知的提示图像恢复方法   | ![image](https://github.com/Guan-qiqi/Papers-and-Models/assets/63685364/f8b2c06b-3b1a-44e7-9209-f43535bdc56b) |
+|    |    |    |
+
+
 # Trasformer
 | Paper      | Keywords | Model |
 | ----------- | ----------- | ----------- |
