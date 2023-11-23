@@ -31,6 +31,7 @@
 | Paper      | Keywords | Model |
 | ----------- | ----------- | ----------- |
 |FMViT: A multiple-frequency mixing Vision Transformer<br>[paper](https://arxiv.org/pdf/2311.05707v1.pdf)<br>[code]()    | Lightweight Self-Attention Block   | ![image](https://github.com/Guan-qiqi/Papers-and-Models/assets/63685364/4e818833-6457-4289-852f-894cbf6839b6) |
+| MB-TaylorFormer: Multi-branch Efficient Transformer Expanded by Taylor Formula for Image Dehazing——ICCV 2023<br>[paper](https://arxiv.org/pdf/2308.14036.pdf)<br>[code](https://github.com/FVL2020/ICCV-2023-MB-TaylorFormer)   |    | ![image](https://github.com/Guan-qiqi/Papers-and-Models/assets/63685364/72db6f75-ce0c-4132-b323-e894e703672b) |
 |    |    |    |
 
 
