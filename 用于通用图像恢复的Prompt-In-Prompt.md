@@ -31,8 +31,7 @@
 四、即插即用，用于通用图像恢复。
 
 ## 模型
-
-![PIP](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20231212172013581.png)
+![image](https://github.com/Guan-qiqi/Papers-and-Models/assets/63685364/58834062-defb-4421-bfbc-0eb324cc3bb5)
 
 ### Degradation-aware prompt
 
